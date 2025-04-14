@@ -184,7 +184,7 @@ export default function HomePage() {
                   <Users className="mx-auto h-10 w-10 text-emerald-600 dark:text-emerald-400 mb-4" />
                   <h3 className="text-lg font-bold">Shreyansh Goel</h3>
                   <p className="mt-2 text-sm text-muted-foreground">
-                    UI/UX Designer
+                     Full-Stack Developer
                   </p>
                 </CardContent>
               </Card>
