@@ -140,5 +140,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Made with ❤️ by [CredClean]
+## 👨‍💻 Made with ❤️ by CredClean
 Cleanliness begins with accountability. Let's gamify it!
